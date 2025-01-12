@@ -1,1 +1,1 @@
-# MAD-Project
+# DupliDeals App
